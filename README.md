@@ -3,7 +3,7 @@
 - Dont forget to generate store key for app release packaging.
 - Under `android/app`, replace `google-services.json` with your own file content from google firebase.
 - Replace `gradle.properties` key file-store content with your own.
-
+- To replace the project name run the command `npm run rename` and foll the promps
 - Features
 <ul>
     <li>Registration</li>
@@ -13,7 +13,7 @@
     <li>Profile update / Avatar image change</li>
     <li>View Registered members</li>
     <li>Real-time chat</li>
-<ul>
+</ul>
 
 ### Installation
 - Git clone the project and run `npm i` to install all the required dependecies.
@@ -33,6 +33,6 @@ the project on ios or android emulator ( make sure either of the emulator is run
 <img src="screenshots/chatbox.png" alt="register" width="250"/>
 <b>Profile Update View</b><br/>
 <img src="screenshots/profile-update.png" alt="register" width="250"/>
-
+<br/>
 ## Contact
 - incase of any challenges: kidali.a.kevin@gmail.com
