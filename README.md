@@ -34,5 +34,3 @@ the project on ios or android emulator ( make sure either of the emulator is run
 <b>Profile Update View</b><br/>
 <img src="screenshots/profile-update.png" alt="register" width="250"/>
 <br/>
-## Contact
-- incase of any challenges: kidali.a.kevin@gmail.com
